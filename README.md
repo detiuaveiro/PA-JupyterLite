@@ -1,18 +1,13 @@
-# JupyterLite Demo
+# PA-JupyterLite
 
-[![lite-badge](https://jupyterlite.rtfd.io/en/latest/_static/badge.svg)](https://jupyterlite.github.io/demo)
+A JupyterLite deployment for use in Programming classes and quizes (at detiuaveiro).
 
-JupyterLite deployed as a static site to GitHub Pages, for demo purposes.
-
-## ✨ Try it in your browser ✨
-
-➡️ **https://jupyterlite.github.io/demo**
-
-![github-pages](https://user-images.githubusercontent.com/591645/120649478-18258400-c47d-11eb-80e5-185e52ff2702.gif)
+It was generated from the JupyterLite Demo template
+[![lite-badge](https://jupyterlite.rtfd.io/en/latest/_static/badge.svg)](https://jupyterlite.github.io/demo).
 
 ## Requirements
 
-JupyterLite is being tested against modern web browsers:
+JupyterLite should work in modern web browsers:
 
 - Firefox 90+
 - Chromium 89+
@@ -33,5 +28,3 @@ optional utilities and extensions to make the JupyterLite experience more enjoya
 [`requirements.txt` file](requirements.txt) for a list of all the dependencies provided.
 
 For a template based on the Xeus kernel, see the [`jupyterlite/xeus-python-demo` repository](https://github.com/jupyterlite/xeus-python-demo)
-
-
