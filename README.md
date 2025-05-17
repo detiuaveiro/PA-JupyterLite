@@ -1,9 +1,8 @@
 # PA-JupyterLite
 
-A JupyterLite deployment for use in Programming classes and quizes (at detiuaveiro).
+A JupyterLite deployment for use in Programming classes and quizzes (at detiuaveiro).
 
-It was generated from the JupyterLite Demo template
-[![lite-badge](https://jupyterlite.rtfd.io/en/latest/_static/badge.svg)](https://jupyterlite.github.io/demo).
+> You can open this [PA-JupyterLite deployment here](https://musical-adventure-w6r9v2k.pages.github.io/).
 
 ## Requirements
 
@@ -12,9 +11,10 @@ JupyterLite should work in modern web browsers:
 - Firefox 90+
 - Chromium 89+
 
-## Deploy your JupyterLite website on GitHub Pages
+## How was this made?
 
-Check out the guide on the JupyterLite documentation: https://jupyterlite.readthedocs.io/en/latest/quickstart/deploy.html
+This repo was generated from the JupyterLite Demo template at
+<https://jupyterlite.readthedocs.io/en/latest/quickstart/deploy.html>.
 
 ## Further Information and Updates
 
