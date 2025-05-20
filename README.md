@@ -2,7 +2,7 @@
 
 A JupyterLite deployment for use in Programming classes and quizzes (at detiuaveiro).
 
-> You can open this [PA-JupyterLite deployment here](https://musical-adventure-w6r9v2k.pages.github.io/).
+> You can open this [PA-JupyterLite deployment here](https://sweet.ua.pt/jmr/JupyterLite-Mock1/).
 
 ## Requirements
 
